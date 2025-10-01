@@ -1,2 +1,1 @@
-# OpenAI.jl
-OpenAI Bugbounty POC by @nvk0x
+# OpenAI Bugbounty POC by @nvk0x
